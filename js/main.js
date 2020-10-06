@@ -1,3 +1,4 @@
+// Toggle between light and dark modes
 const backgroundModeBtn = document.getElementById("backgroundModeBtn");
 
 backgroundModeBtn.addEventListener("click", event => {

@@ -1,5 +1,7 @@
 // Google API
 // Uses Google Apps Script to send form submissions to Google Sheets
+// Code credited to:
+// https://github.com/jamiewilson/form-to-google-sheets
 
 // Collect game recs
 const gameScriptURL = 'https://script.google.com/macros/s/AKfycbziVeTAwcdYK8w4z0oKC-xNH9Cuawvz1bAbAQCYAl92BTWMUGI/exec'

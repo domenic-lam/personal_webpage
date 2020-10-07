@@ -19,6 +19,7 @@ Create a personal webpage with the following elements:
 4. Vanilla JS
 
 Created using Sublime Text, with ESLint and Prettier configurations.
+Coded in HTML, Javascript, CSS. Bootstrap API used.
 
 # Screenshot
 [![IMAGE ALT TEXT HERE](https://i.postimg.cc/LXPxJQ1w/Ely-Lams-Webpage.png)](https://i.postimg.cc/LXPxJQ1w/Ely-Lams-Webpage.png)

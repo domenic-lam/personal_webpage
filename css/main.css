@@ -2,3 +2,18 @@ body {
   background-color: black;
   color: white;
 }
+
+/* Nikkie: play around with changing font-family and font-size as well as changing color, positioning such as relative and display using flex or others. */
+/* adding borders to list in about me page example:
+.aboutme-List li {
+  border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+  position:relative;
+  display: inline-block;
+  font-size:18px;
+  font-family: sans serif;
+}*/
+
+/* The above is a little example of different things to add to change the look of page. There are A LOT of options of course. */
+

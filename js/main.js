@@ -1,3 +1,4 @@
+// Nikkie: This looks great, I like the comments on each line and the organization of your code. 
 // Toggle between light and dark modes
 const backgroundModeBtn = document.getElementById("backgroundModeBtn");
 

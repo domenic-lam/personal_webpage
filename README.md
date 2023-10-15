@@ -21,9 +21,6 @@ Create a personal webpage with the following elements:
 Created using Sublime Text, with ESLint and Prettier configurations.
 Coded in HTML, Javascript, CSS. Bootstrap API used.
 
-# Screenshot
-[![Screenshot of Domenic Lam's Webpage](images/Domenic_Lam_Webpage.png)](images/Domenic_Lam_Webpage.png)
-
 # Build instructions:
 npm --install
 

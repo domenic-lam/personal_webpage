@@ -1,4 +1,10 @@
 body {
   background-color: black;
   color: white;
+  margin: auto;
+}
+
+p {
+  margin-bottom: 100px;
+  margin-right: 200px;
 }

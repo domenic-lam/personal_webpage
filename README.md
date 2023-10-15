@@ -1,6 +1,6 @@
 # personal_webpage
 
-<strong>Author</strong>: Ely Lam<br>
+<strong>Author</strong>: Domenic Lam<br>
 <strong>Course</strong>: 5610: Web Development<br>
 <strong>Assignment</strong>: Project 1<br>
 <strong>Professor</strong>: John Alexis Guerra Gomez<br>
@@ -9,7 +9,7 @@
 <strong>Program</strong>: ALIGN MSCS<br>
 
 # Website Link
-[website link](https://ely-lam.github.io/personal_webpage/index.html)
+[website link](https://domenic-lam.github.io/personal_webpage/index.html)
 
 # Project Objective
 Create a personal webpage with the following elements:
@@ -22,7 +22,7 @@ Created using Sublime Text, with ESLint and Prettier configurations.
 Coded in HTML, Javascript, CSS. Bootstrap API used.
 
 # Screenshot
-[![Screenshot of Ely Lam's Webpage](images/Ely_Lam_Webpage.png)](images/Ely_Lam_Webpage.png)
+[![Screenshot of Domenic Lam's Webpage](images/Domenic_Lam_Webpage.png)](images/Domenic_Lam_Webpage.png)
 
 # Build instructions:
 npm --install
